@@ -1,6 +1,7 @@
 #ifndef MERGESORT_HPP
 #define MERGESORT_HPP
 #include<vector>
+#include <stdlib.h>
 using namespace std;
 
 class MergeSort{

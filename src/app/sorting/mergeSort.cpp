@@ -1,5 +1,5 @@
 #include "mergeSort.hpp"
-#include <stdlib.h>
+
 
 MergeSort::MergeSort(vector<int>*nums){
     this->nums = nums;
